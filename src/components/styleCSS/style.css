@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px auto;
+}
+
+body{
+    width: 100%;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: #137098;    
+}
+
+.nav-link{
+    color: white;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-size: 1em;
+}
+
+.nav-link:hover{
+    color: white;
+    text-decoration: underline;
+}
